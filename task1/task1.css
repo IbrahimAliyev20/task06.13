@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: inline-block;
+    
+}
+body{
+    background-color: white;
+}
+
+.basliq{
+    width: 100%;
+    margin: 100px 500px;
+}
+.our{
+    margin-left: 170px;
+}
+.card1{
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    margin: 10px 20px 10px 250px;
+    border-style: double;
+    border-color: rgba(0, 0, 0,0.2);
+
+}
+.card1 .i1 i{
+   font-size: 2.5rem;
+   margin: 20px 80px;
+   
+}
+.card2{
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    margin: 10px 30px;
+    border-style: double;
+    border-color: rgba(0, 0, 0,0.2);
+
+}
+.card2 .i1 i{
+   font-size: 2.5rem;
+   margin: 20px 80px;
+   
+}
+.card3{
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    margin: 10px 30px;
+    border-style: double;
+    border-color: rgba(0, 0, 0,0.2);
+
+}
+.card3 .i1 i{
+   font-size: 2.5rem;
+   margin: 20px 80px;
+   
+}
+.card4{
+    text-align: center;
+    width: 200px;
+    height: 240px;
+    margin: 10px 30px;
+    border-style: double;
+    border-color: rgba(0, 0, 0,0.2);
+
+}
+.card4 .i1 i{
+   font-size: 2.5rem;
+   margin: 20px 80px;
+   
+}
